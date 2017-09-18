@@ -5,7 +5,7 @@
  * Date: 08.08.17
  */
 
-namespace TPMailSender\HttpTools\StatusCode;
+namespace NewInventor\HttpTools\StatusCode;
 
 
 class Success

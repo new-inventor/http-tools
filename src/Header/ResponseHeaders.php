@@ -5,7 +5,7 @@
  * Date: 08.08.17
  */
 
-namespace TPMailSender\HttpTools\Header;
+namespace NewInventor\HttpTools\Header;
 
 
 class ResponseHeaders

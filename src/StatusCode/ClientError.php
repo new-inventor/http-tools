@@ -5,7 +5,7 @@
  * Date: 25.07.17
  */
 
-namespace TPMailSender\HttpTools\StatusCode;
+namespace NewInventor\HttpTools\StatusCode;
 
 
 class ClientError
