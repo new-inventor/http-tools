@@ -1,5 +1,5 @@
 # Http tools
-This library provides exceptions, status codes, and common headers for http requests.
+This library provides exceptions, status codes, and common headers for http requests and responses.
 
 All exceptions
 * extend `NewInventor\HttpTools\Exception\HttpException`
